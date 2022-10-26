@@ -1,4 +1,4 @@
-package br.unviates;
+package br.univates;
 import java.io.*;
 
 public class SimpleReader {
